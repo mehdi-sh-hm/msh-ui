@@ -1,0 +1,11 @@
+{
+  "name": "@msh/ui",
+  "version": "1.0.0",
+  "description": "a simple declaritive javascript ui library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehdi Shakeri",
+  "license": "MIT"
+}
