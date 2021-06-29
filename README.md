@@ -1,5 +1,8 @@
 # MSH-ui
-A **lightweight** JavaScript library for building user interfaces or UI components on top of web componant standard api.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehdi-sh-hm/msh-ui/master/logo.png">
+</p>
+#### A **lightweight** JavaScript library for building user interfaces or UI components on top of web componant standard api.
 
 ## Features
 - Very lightweight (about 500 bytes) :rocket:
