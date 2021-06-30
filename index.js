@@ -3,7 +3,11 @@
 
 export * from './core';
 
-
+// import * as app from './core/app';
+// import * as breakpoint from './core/breakpoint';
+// import * as reactiveElement from './core/reactive-element';
+// console.log(breakpoint);
+// console.log(reactiveElement);
 // Version 1
 // const elements = this.shadowRoot.querySelectorAll(`[bind^="${prop}"]`);
 // // debugger;

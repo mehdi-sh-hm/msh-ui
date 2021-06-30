@@ -6,7 +6,7 @@
 #### A **lightweight** JavaScript library for building user interfaces or UI components on top of web componant standard api.
 
 ## Features
-- Very lightweight (about 500 bytes) :rocket:
+- Very lightweight (gzipped size about 1.5KB) :rocket:
 - No Virtual Dom (Incrementaly update the Dom)
 - Reactivity based on state :trophy:
 - Simple and declarative syntax
